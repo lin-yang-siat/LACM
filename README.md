@@ -45,7 +45,7 @@ python LACM\train.py \
   --train_init_dir inferTr \
   --test_image_dir imagesTs \
   --test_label_dir labelsTs \
-  --test_init_dir imferTs \
+  --test_init_dir inferTs \
   --classes 11 \
   --models 3 \
   --patch 256 256 48 \

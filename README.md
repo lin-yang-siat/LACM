@@ -1,6 +1,4 @@
-# LACM
-A Lightweight Learnable Active Contour Model for Annotation-Efficient Whole-Body Composition Analysis Using MR Proton Density Fat Fraction Images
-# LACM: Learnable Active Contours Model
+# A Lightweight Learnable Active Contour Model for Annotation-Efficient Whole-Body Composition Analysis Using MR Proton Density Fat Fraction Images
 
 This repository contains a lightweight Learnable Active Contours Model (LACM)
 for nnUNet-initialized whole-body MR-PDFF segmentation.

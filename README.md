@@ -3,16 +3,6 @@
 This repository contains a lightweight Learnable Active Contours Model (LACM)
 for nnUNet-initialized whole-body MR-PDFF segmentation.
 
-The implementation follows the paper terminology:
-
-```text
-$phi_theta = F_theta(I, Lambda_t) + lambda R_theta(I, u_t)$
-$u_{t+1} = softmax(-phi_theta / epsilon)$
-```
-
-where $F_theta$ is the PDFF-aware region potential and $R_theta$ is the
-boundary regularization potential.
-
 ## Files
 
 ```text
